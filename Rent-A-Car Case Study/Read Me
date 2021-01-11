@@ -1,0 +1,4 @@
+# This project is a case study for the fictional company Lariot. 
+# The objective was to analyze their rental car fleet and make recommendations to increase revenue when purchasing new vehicles. 
+# I developed a highly flexible model that weighted several different key performance indicators 
+# (i.e. total revenue, total cost, idle %, etc.) into recommendations for fleet replacement.
