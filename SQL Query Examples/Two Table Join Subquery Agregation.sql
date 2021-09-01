@@ -2,7 +2,7 @@
 --from Apr 1, 2020 through Mar 31, 2021. 
 --We are trying to understand the trends in new user revenue and paid subscription conversion over the past year on iOS and Android separately.
 --Specifically we want to know how much revenue each monthly cohort has generated over time and the subscription conversion of each monthly cohort.
---I wrote this in Notepad++ with the SQLite environment inmind. 
+--I wrote this in Notepad++ with the SQLite environment in mind. 
 
 
 SELECT
